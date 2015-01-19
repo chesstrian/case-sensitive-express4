@@ -1,0 +1,16 @@
+{
+  "name": "case-sensitive-express4",
+  "description": "case sensitive routing issue on express 4",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "start": "DEBUG=* coffee app.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chesstrian/case-sensitive-express4"
+  },
+  "dependencies": {
+    "express": "4.x"
+  }
+}
